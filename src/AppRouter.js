@@ -25,11 +25,6 @@ import './index.css'
 }*/
 
 
-/**
- * 下面的demo用来复习下嵌套路由,一级路由，二级路由，三级路由，模拟从后台获取路由渲染。
- * */
-
-
 function AppRouter() {
     return (
         <Router>
